@@ -11,9 +11,12 @@ En este análisis, se realizaron las siguientes tareas principales:
 * Detección de Duplicados: Se verificó la presencia de filas duplicadas dentro del dataset.
 * Filtrado de Datos: Se aplicaron varios filtros al dataset para explorar subconjuntos específicos de los datos basados en diferentes criterios.
 
-## Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
-* **Python:** Lenguaje de programación principal utilizado para el análisis.
-* **Pandas:** Biblioteca de Python fundamental para la manipulación y análisis de datos estructurados.
+* Python: Lenguaje de programación principal utilizado para el análisis.
+* Pandas: Biblioteca de Python fundamental para la manipulación y análisis de datos estructurados.
 
-* Realizado por María Pacheco con fines prácticos en mi formación como analista de datos. 
+*Créditos del Dataset:
+Este proyecto se basa en el dataset de Kaggle, creado por https://www.kaggle.com/amansingh0000000. Puedes encontrar el dataset en el siguiente url https://www.kaggle.com/datasets/amansingh0000000/smartphones.
+
+* Proyecto realizado por María Pacheco con fines prácticos en mi formación como analista de datos. 
